@@ -1,0 +1,17 @@
+[
+    { "gambar":"https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg", "jawaban":"تُفَّاح", "kategori":"isim" },
+    { "gambar":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg", "jawaban":"قِطّ", "kategori":"isim" },
+    { "gambar":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg", "jawaban":"كَلْب", "kategori":"isim" },
+    { "gambar":"https://auto2000.co.id/berita-dan-tips/_next/image?url=https%3A%2F%2Fastradigitaldigiroomuat.blob.core.windows.net%2Fstorage-uat-001%2Fjenis-mobil-pribadi.jpg&w=3840&q=75", "jawaban":"سَيَّارَة", "kategori":"isim" },
+    { "gambar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgDth3gEnWqXEfQ-zxYbS_IxE5bW99N4ktgYvzuQ7jsQ&s&ec=121657078", "jawaban":"نَافِذَة", "kategori":"isim" },
+    { "gambar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvm1I1whbwQLhVwenkqEAvpnOKktxXmFDq0w&s", "jawaban": "بَاب", "kategori": "isim"},
+    { "gambar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlHxU-xTiU4KMKPcEvO5Nt9pxdP4Hwvtl4GA&s", "jawaban": "مَكْتَب ", "kategori": "isim" },
+    { "gambar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNyfX8uuuRb2ceY0pXk3WJyfCFio8mtCBIVQ&s", "jawaban": "قَلَم ", "kategori": "isim" },
+    { "gambar":"https://siplah.blibli.com/data/images/SBLU-0001-00030/569578f0-6017-48b0-9c1f-5494522e99e1.jpg", "jawaban": "سَبُّوْرَة", "kategori": "isim" },
+    { "gambar":"https://okinafitriani.com/wp-content/uploads/2018/10/image.png", "jawaban": "مَدْرَسَة", "kategori": "isim" },
+    { "gambar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0Mab0Nf5N7PeFOXFQSfUHHse90EsTpEUzQ&s", "jawaban": "شَجَر", "kategori": "isim" },
+    { "gambar":"https://storage.googleapis.com/download/storage/v1/b/xooply-static-production/o/dev%2F6833dde410dbd5d164fdeda51e8fa894.jpeg-v7AZa5.jpeg?generation=1724901325216165&alt=media", "jawaban": "مِكْنَسَة", "kategori": "isim" },
+    { "gambar":"https://awsimages.detik.net.id/visual/2023/05/31/batu-kuarsit_169.jpeg?w=1200", "jawaban": "حَجَر", "kategori": "isim" },
+    { "gambar":"https://siplah.blibli.com/data/images/SGOL-0003-00096/fcd68c42-e323-4c61-909a-0518f371cf08.jpeg", "jawaban": "مِمْسَحَة", "kategori": "isim" },
+    { "gambar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToyhMtGtu97PPZxLcEGio75nEmGmfY-K8Bpg&s", "jawaban": "أرْض", "kategori": "isim" }
+]
